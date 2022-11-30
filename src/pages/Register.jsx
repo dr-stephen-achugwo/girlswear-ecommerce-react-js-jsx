@@ -4,7 +4,7 @@ import { mobile } from "../components/responsive";
 import NavbarTop from '../components/NavbarTop';
 import Navbar from '../components/Navbar';
 import Announcement from '../components/Announcement';
-import Ladfash09 from "../assets/ladyz-fashion/img09.jpg";
+import Ladfash09 from "../assets/ladyz-fashion/img09.png";
 
 
 const Container = styled.div`
