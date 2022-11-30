@@ -1,0 +1,46 @@
+nav {
+  height: 56px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #3f51b5;
+  box-shadow: 0 5px 10px #ccc;
+}
+
+/* Basic styles for nav links */
+nav a {
+  display: flex;
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  height: 100%;
+  text-decoration: none;
+}
+
+/* .Container {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient
+        (rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), 
+     url("../assets/fashion-ladies/img17.png");
+  object-fit: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */
+
+/* Specific styles for non-active links */
+.link {
+  color: white;
+}
+
+/* Specific styles for active links */
+.link-active {
+  color: purple;
+  background: orange;
+}
+
+.content {
+  margin-top: 50px;
+  text-align: center;
+}
