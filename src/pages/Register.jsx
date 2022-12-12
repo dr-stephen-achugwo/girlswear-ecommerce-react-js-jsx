@@ -9,7 +9,7 @@ import Ladfash09 from "../assets/ladyz-fashion/img09.png";
 
 const Container = styled.div`
     padding: 0px;
-    margin: 10px;
+    margin: 0px;
 `;
 
 const NavSection = styled.div`
