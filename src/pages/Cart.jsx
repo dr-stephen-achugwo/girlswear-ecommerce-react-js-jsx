@@ -1,8 +1,8 @@
 import styled from 'styled-components';
+import {Add, Remove} from '@mui/icons-material';
 import NavbarTop from '../components/NavbarTop';
 import Navbar from '../components/Navbar';
 import Announcement from '../components/Announcement';
-import {Add, Remove} from '@mui/icons-material';
 import { mobile } from "../components/responsive";
 import Insta1 from "../assets/r-shop/insta-1.jpg";
 import Insta2 from "../assets/r-shop/insta-2.jpg";
@@ -201,7 +201,7 @@ const Cart = () => {
                  <ProductDetail>
                     <Image src={Insta1} alt="men-wear-1" id="men1" />
                     <Details>
-                      <ProductName><b>Product:</b> JESSIE THUNDER SHOES</ProductName>
+                      <ProductName><b>Product:</b> JESSIE JACKET</ProductName>
                       <ProductId><b>ID:</b> 93813718293</ProductId>
                       <ProductColor color='black' />
                       <ProductSize><b>Size:</b> 37.5</ProductSize>
@@ -213,7 +213,7 @@ const Cart = () => {
                       <ProductAmount>2</ProductAmount>
                       <Remove />
                     </ProductAmountContainer>
-                    <ProductPrice>₦ 30</ProductPrice>
+                    <ProductPrice>₦ 300</ProductPrice>
                  </PriceDetail>
                 </Product>
 
@@ -223,7 +223,7 @@ const Cart = () => {
                  <ProductDetail>
                     <Image src={Insta2} alt="men-wear-2" id="men2" />
                     <Details>
-                      <ProductName><b>Product:</b> HAKURA T-SHIRT</ProductName>
+                      <ProductName><b>Product:</b> HAKURA HAT</ProductName>
                       <ProductId><b>ID:</b> 93813718293</ProductId>
                       <ProductColor color='Teal' />
                       <ProductSize><b>Size:</b> M</ProductSize>
@@ -235,7 +235,7 @@ const Cart = () => {
                       <ProductAmount>1</ProductAmount>
                       <Remove />
                     </ProductAmountContainer>
-                    <ProductPrice>₦ 20</ProductPrice>
+                    <ProductPrice>₦ 200</ProductPrice>
                  </PriceDetail>
                 </Product>
 
