@@ -3,7 +3,7 @@
      <br>
 <img src="https://github.com/dr-stephen-achugwo/girlswear-ecommerce-react-js-jsx/blob/main/src/assets/screen/Screenshot-Girls-Wear-Products.png" alt="">
      <br>
-<img src="https://github.com/dr-stephen-achugwo/girlswear-ecommerce-react-js-jsx/blob/main/src/assets/screen/Screenshot1b.jpg" alt="">     
+<img src="https://github.com/dr-stephen-achugwo/girlswear-ecommerce-react-js-jsx/blob/main/src/assets/screen/Screenshot.jpg" alt="">     
      <br> 
     
 # Getting Started with Create React App
