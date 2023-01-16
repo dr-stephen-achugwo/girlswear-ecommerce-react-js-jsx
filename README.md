@@ -1,3 +1,6 @@
+<h3>Screenshots</h3>
+<img src="https://github.com/dr-stephen-achugwo/girlswear-ecommerce-react-js-jsx/blob/main/src/assets/screen/Screenshot%202022-11-30%20at%2010-33-45%20React%20App.jpg"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
